@@ -14,6 +14,16 @@
 
 ## EXPERIENCE
 
+## Full Stack Developer Intern
+
+> [Ziggurat](https://www.ziggtec.com/)
+>
+> 08/2020 - Present
+
+- Using React-Native to build a smart stock trading mobile application
+- Leading a group of 4 engineers in delegating and overseeing progress
+- React, Express, AWS, MongoDB/Mongoose
+
 ## Software Engineering Intern
 
 > [LiveStack](https://livestack.video/)
